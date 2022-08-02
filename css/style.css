@@ -1,0 +1,15 @@
+
+@font-face {
+	font-family: iransans;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/IRANSansWeb.woff') format('woff');  
+		 
+}
+
+body{
+
+    margin:0!important;
+    font-family: iransans!important;
+}
+
